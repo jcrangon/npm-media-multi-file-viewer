@@ -19,7 +19,7 @@ Inspired by [node-module-boilerplate](https://github.com/sindresorhus/node-modul
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-## Getting started
+<!-- ## Getting started
 
 ### Set up your repository
 
@@ -49,7 +49,7 @@ Add your npm token to your GitHub repository secrets as `NPM_TOKEN`.
 
 Enable the Codecov GitHub App [here](https://github.com/apps/codecov).
 
-**Remove everything from here and above**
+**Remove everything from here and above** -->
 
 ---
 
